@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+html {
+  background-color: #002651;
+}
+
+.submit-btn {
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.form-div {
+  margin-top: 50px;
+}
+.card-div {
+  margin-right: 5px;
+  margin-bottom: 5px;
+  text-transform: capitalize;
+}
+.todo_input:focus {
+  color: white;
+}
+
+.todo-name {
+  margin-bottom: 5px;
+}
+.delete-btn{
+  margin-bottom:5px;
+  display:inline-block;
+}
